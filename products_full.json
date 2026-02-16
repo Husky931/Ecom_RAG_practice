@@ -1,0 +1,714 @@
+[
+  {
+    "company": "Nanjing Bailu",
+    "contact": {
+      "email": "yanyue@bailuit.cn",
+      "website": "https://njbailu.m.en.alibaba.com/"
+    },
+    "products": [
+      {
+        "sku": "P001",
+        "name": "Egg Roll with Nougat 228g",
+        "flavors": ["Original", "Rose", "Matcha", "Jasmine", "Cocoa", "Meat Floss", "Strawberry"],
+        "ingredients": ["Eggs", "butter", "milk powder", "marshmallows"],
+        "weight_g": 228,
+        "cost_usd": 2.74,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Milk"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P002",
+        "name": "Egg Roll with Nougat 130g",
+        "flavors": ["Rose", "Strawberry", "Jasmine", "Meat Floss", "Original"],
+        "ingredients": ["Eggs", "butter", "milk powder", "marshmallows"],
+        "weight_g": 130,
+        "cost_usd": 1.54,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Milk"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P003",
+        "name": "Baked Almond Slices Cracker Cookie",
+        "flavors": ["Almond", "Cocoa", "Coconut & Black Tea"],
+        "ingredients": ["Roasted Almonds", "Eggs", "Trehalose", "Wheat Flour"],
+        "weight_g": 80,
+        "cost_usd": 1.87,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Wheat", "Tree Nuts (Almonds)"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P004",
+        "name": "Baked Square Biscuits",
+        "flavors": ["Sea salt Cheese", "Coconut Latte"],
+        "ingredients": ["Wheat flour", "granulated sugar", "vegetable oil"],
+        "weight_g": 150,
+        "cost_usd": 0.7,
+        "selling_price_usd": null,
+        "allergens": ["Wheat"],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P005",
+        "name": "Baked Nuts Crispy Biscuits",
+        "flavors": ["Almond Black Tea", "Macadamia Cocoa"],
+        "ingredients": ["Roasted Almonds/Macadamia Nuts", "Wheat Flour", "Egg Whites", "Trehalose"],
+        "weight_g": 70,
+        "cost_usd": 1.23,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Wheat", "Tree Nuts (Almonds, Macadamia)"],
+        "shelf_life_days": 90
+      },
+      {
+        "sku": "P028",
+        "name": "Freeze-Dried Mango & Strawberry Crispy Nut Balls",
+        "flavors": ["Mango", "Strawberry"],
+        "ingredients": ["Strawberry", "Mango", "Nuts"],
+        "weight_g": 30,
+        "cost_usd": 1.39,
+        "selling_price_usd": null,
+        "allergens": ["Tree Nuts"],
+        "shelf_life_days": 270
+      },
+      {
+        "sku": "P029",
+        "name": "Waffle Bite-Sized Cookies",
+        "flavors": ["Cheese", "Soy milk", "Chocolate", "Ice cream"],
+        "ingredients": ["Wheat flour", "shortening", "granulated sugar"],
+        "weight_g": 90,
+        "cost_usd": 0.77,
+        "selling_price_usd": null,
+        "allergens": ["Wheat", "Milk", "Soy"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P030",
+        "name": "Egg Roll with Nougat 160g (Bag)",
+        "flavors": ["Original", "Meat Floss", "Cocoa", "Matcha", "Strawberry"],
+        "ingredients": ["Eggs", "butter", "milk powder", "marshmallows"],
+        "weight_g": 160,
+        "cost_usd": 1.97,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Milk"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P031",
+        "name": "Egg Roll with Nougat 160g (Box)",
+        "flavors": ["Original", "Meat Floss", "Cocoa", "Matcha", "Strawberry"],
+        "ingredients": ["Eggs", "butter", "milk powder", "marshmallows"],
+        "weight_g": 160,
+        "cost_usd": 1.97,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Milk"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P032",
+        "name": "Egg Roll with Nougat 80g",
+        "flavors": ["Original", "Meat Floss", "Cocoa", "Matcha", "Strawberry"],
+        "ingredients": ["Eggs", "butter", "milk powder", "marshmallows"],
+        "weight_g": 80,
+        "cost_usd": 1.05,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Milk"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P033",
+        "name": "Almond Coconut Crisps",
+        "flavors": ["Coconut", "Almond"],
+        "ingredients": ["Almond slices", "white sugar", "palm oil", "wheat flour", "eggs"],
+        "weight_g": 120,
+        "cost_usd": 1.67,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Wheat", "Tree Nuts (Almonds)"],
+        "shelf_life_days": 120
+      },
+      {
+        "sku": "P034",
+        "name": "Salted Egg Yolk Nuts / Coconut Milk Nuts",
+        "flavors": ["Salted Egg Yolk", "Coconut Milk", "Cheese Seaweed", "Mix"],
+        "ingredients": ["White sugar", "mixed nuts", "wheat flour"],
+        "weight_g": 150,
+        "cost_usd": 1.51,
+        "selling_price_usd": null,
+        "allergens": ["Wheat", "Tree Nuts"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "P039",
+        "name": "Nougat-filled Thousand Layer Pastry",
+        "flavors": ["Original"],
+        "ingredients": [
+          "Wheat flour",
+          "butter (>20%)",
+          "water",
+          "powdered sugar",
+          "almond flakes (>3%)",
+          "whole milk powder",
+          "maltose",
+          "egg white liquid",
+          "protein powder",
+          "edible salt"
+        ],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": ["Wheat", "Milk", "Eggs", "Tree Nuts (Almonds)"],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P040",
+        "name": "Nut Boat Mix Nuts Crisps",
+        "flavors": ["Original"],
+        "ingredients": [
+          "Walnut Kernels",
+          "Cashew Kernels",
+          "Sunflower Seeds",
+          "Peanut Kernels",
+          "Maltitol",
+          "Blackcurrants",
+          "Red Dates",
+          "Pumpkin Seeds",
+          "Almonds",
+          "Trehalose",
+          "Coconut Oil",
+          "Ice Cream Cone (Wheat Flour, Corn Starch, Vegetable Oil, Sodium Bicarbonate)",
+          "Flax Seeds",
+          "Chia Seeds",
+          "Nuts"
+        ],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": ["Wheat", "Peanuts", "Tree Nuts (Walnuts, Cashews, Almonds)"],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P041",
+        "name": "Chia Seed and Coconut Crisps",
+        "flavors": ["Original"],
+        "ingredients": ["Egg White", "Trehalose", "Coconut Chips", "Wheat Flour", "Chia Seeds", "Coconut Oil", "Starch", "Baking Soda", "Edible Salt"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Wheat", "Coconut"],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P042",
+        "name": "White Chocolate with Strawberry Almond Crisps",
+        "flavors": ["White Chocolate with Strawberry"],
+        "ingredients": ["Almond Slices", "White Chocolate", "Egg White", "Strawberry Pieces", "Trehalose", "Butter", "Wheat Flour", "Edible Salt"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Wheat", "Milk", "Tree Nuts (Almonds)", "Soy (in chocolate)"],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P043",
+        "name": "Matcha Almond Crisps",
+        "flavors": ["Matcha Almond"],
+        "ingredients": ["Almond Slices", "White Chocolate", "Egg White", "Almond Pieces", "Trehalose", "Butter", "Wheat Flour", "Matcha Powder", "Edible Salt"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": ["Eggs", "Wheat", "Milk", "Tree Nuts (Almonds)", "Soy (in chocolate)"],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P044",
+        "name": "Freeze-dried strawberries",
+        "flavors": ["Strawberry"],
+        "ingredients": ["Strawberries"],
+        "weight_g": 1000,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P045",
+        "name": "Freeze-dried peaches",
+        "flavors": ["Peach"],
+        "ingredients": ["Peaches"],
+        "weight_g": 1000,
+        "cost_usd": 18.0,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P046",
+        "name": "Freeze-dried pineapple",
+        "flavors": ["Pineapple"],
+        "ingredients": ["Pineapple"],
+        "weight_g": 1000,
+        "cost_usd": 21.3,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P047",
+        "name": "Freeze-dried dragon fruit",
+        "flavors": ["Dragon fruit"],
+        "ingredients": ["Dragon fruit"],
+        "weight_g": 1000,
+        "cost_usd": 18.0,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P048",
+        "name": "Freeze-dried mango",
+        "flavors": ["Mango"],
+        "ingredients": ["Mango"],
+        "weight_g": 1000,
+        "cost_usd": 18.0,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P049",
+        "name": "Freeze-dried apple",
+        "flavors": ["Apple"],
+        "ingredients": ["Apple"],
+        "weight_g": 1000,
+        "cost_usd": 18.0,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P050",
+        "name": "Freeze-dried kiwi",
+        "flavors": ["Kiwi"],
+        "ingredients": ["Kiwi"],
+        "weight_g": 1000,
+        "cost_usd": 19.2,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "P051",
+        "name": "Freeze-dried mulberries",
+        "flavors": ["Mulberry"],
+        "ingredients": ["Mulberries"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P052",
+        "name": "Freeze-dried figs",
+        "flavors": ["Fig"],
+        "ingredients": ["Figs"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P053",
+        "name": "Freeze-dried banana",
+        "flavors": ["Banana"],
+        "ingredients": ["Banana"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P054",
+        "name": "Freeze-dried raspberries",
+        "flavors": ["Raspberry"],
+        "ingredients": ["Raspberries"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": null
+      },
+      {
+        "sku": "P055",
+        "name": "Freeze-dried blueberries",
+        "flavors": ["Blueberry"],
+        "ingredients": ["Blueberries"],
+        "weight_g": null,
+        "cost_usd": null,
+        "selling_price_usd": null,
+        "allergens": [],
+        "shelf_life_days": null
+      }
+    ]
+  },
+  {
+    "company": "Three Squirrels (三只松鼠)",
+    "contact": {
+      "email": "export@3songshu.com",
+      "website": "https://www.3songshu.com/"
+    },
+    "products": [
+      {
+        "sku": "TS001",
+        "name": "Daily Nuts Mix",
+        "flavors": ["Original"],
+        "ingredients": ["Walnuts", "Almonds", "Cashews", "Hazelnuts", "Cranberries", "Blueberries", "Raisins"],
+        "weight_g": 750,
+        "cost_usd": 12.5,
+        "selling_price_usd": 18.99,
+        "allergens": ["Tree Nuts"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "TS002",
+        "name": "Roasted Chestnuts",
+        "flavors": ["Original", "Honey"],
+        "ingredients": ["Chestnuts", "Sugar", "Honey"],
+        "weight_g": 500,
+        "cost_usd": 6.8,
+        "selling_price_usd": 11.99,
+        "allergens": ["Tree Nuts"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "TS003",
+        "name": "Crispy Peas",
+        "flavors": ["Original", "Wasabi", "Spicy"],
+        "ingredients": ["Green Peas", "Rice Flour", "Sugar", "Salt", "Wasabi Powder"],
+        "weight_g": 400,
+        "cost_usd": 4.2,
+        "selling_price_usd": 7.99,
+        "allergens": ["Peas"],
+        "shelf_life_days": 270
+      },
+      {
+        "sku": "TS004",
+        "name": "Dried Mango Slices",
+        "flavors": ["Sweet", "Sour"],
+        "ingredients": ["Mango", "Sugar", "Citric Acid"],
+        "weight_g": 400,
+        "cost_usd": 5.5,
+        "selling_price_usd": 9.99,
+        "allergens": [],
+        "shelf_life_days": 300
+      },
+      {
+        "sku": "TS005",
+        "name": "Pumpkin Seeds",
+        "flavors": ["Original", "Salt & Pepper", "Five Spice"],
+        "ingredients": ["Pumpkin Seeds", "Salt", "Chinese Spices"],
+        "weight_g": 500,
+        "cost_usd": 5.8,
+        "selling_price_usd": 9.99,
+        "allergens": ["Seeds"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "TS006",
+        "name": "Biscuit Assortment",
+        "flavors": ["Milk", "Chocolate", "Matcha", "Strawberry"],
+        "ingredients": ["Wheat Flour", "Sugar", "Vegetable Oil", "Milk Powder", "Cocoa Powder", "Matcha Powder"],
+        "weight_g": 600,
+        "cost_usd": 7.2,
+        "selling_price_usd": 13.99,
+        "allergens": ["Wheat", "Milk", "Soy"],
+        "shelf_life_days": 300
+      },
+      {
+        "sku": "TS007",
+        "name": "Spicy Dried Tofu",
+        "flavors": ["Spicy", "BBQ", "Original"],
+        "ingredients": ["Tofu", "Soy Sauce", "Chili Oil", "Sesame", "Spices"],
+        "weight_g": 400,
+        "cost_usd": 4.9,
+        "selling_price_usd": 8.99,
+        "allergens": ["Soy"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "TS008",
+        "name": "Hawthorn Rolls",
+        "flavors": ["Original", "Strawberry"],
+        "ingredients": ["Hawthorn", "Sugar", "Strawberry Puree"],
+        "weight_g": 300,
+        "cost_usd": 3.8,
+        "selling_price_usd": 6.99,
+        "allergens": [],
+        "shelf_life_days": 270
+      },
+      {
+        "sku": "TS009",
+        "name": "Seaweed Snacks",
+        "flavors": ["Original", "Wasabi", "Sesame"],
+        "ingredients": ["Seaweed", "Sesame Oil", "Salt", "Wasabi"],
+        "weight_g": 200,
+        "cost_usd": 5.2,
+        "selling_price_usd": 9.99,
+        "allergens": ["Fish (seaweed)"],
+        "shelf_life_days": 210
+      },
+      {
+        "sku": "TS010",
+        "name": "Mixed Berries Freeze-Dried",
+        "flavors": ["Strawberry", "Raspberry", "Blueberry", "Mulberry"],
+        "ingredients": ["Strawberries", "Raspberries", "Blueberries", "Mulberries"],
+        "weight_g": 240,
+        "cost_usd": 8.9,
+        "selling_price_usd": 15.99,
+        "allergens": [],
+        "shelf_life_days": 360
+      }
+    ]
+  },
+  {
+    "company": "Bestore (良品铺子)",
+    "contact": {
+      "email": "global@bestore.com",
+      "website": "https://www.bestore.com/"
+    },
+    "products": [
+      {
+        "sku": "BS001",
+        "name": "Crispy Chicken Feet",
+        "flavors": ["Hot & Spicy", "Marinated", "Sour & Spicy"],
+        "ingredients": ["Chicken Feet", "Soy Sauce", "Chili", "Vinegar", "Spices"],
+        "weight_g": 300,
+        "cost_usd": 6.5,
+        "selling_price_usd": 11.99,
+        "allergens": ["Soy"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "BS002",
+        "name": "Dried Pork Floss",
+        "flavors": ["Original", "Seaweed", "Spicy"],
+        "ingredients": ["Pork", "Sugar", "Soy Sauce", "Seaweed"],
+        "weight_g": 200,
+        "cost_usd": 5.8,
+        "selling_price_usd": 9.99,
+        "allergens": ["Soy"],
+        "shelf_life_days": 300
+      },
+      {
+        "sku": "BS003",
+        "name": "Crispy Fish Skins",
+        "flavors": ["Salted Egg", "Spicy", "BBQ"],
+        "ingredients": ["Fish Skin", "Salted Egg Yolk", "Chili", "Rice Flour"],
+        "weight_g": 150,
+        "cost_usd": 5.2,
+        "selling_price_usd": 9.99,
+        "allergens": ["Fish", "Eggs"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "BS004",
+        "name": "Mushroom Crisps",
+        "flavors": ["Original", "Black Pepper", "Sour Cream & Onion"],
+        "ingredients": ["Shiitake Mushrooms", "Vegetable Oil", "Salt", "Seasonings"],
+        "weight_g": 180,
+        "cost_usd": 4.9,
+        "selling_price_usd": 8.99,
+        "allergens": ["Mushrooms"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "BS005",
+        "name": "Spicy Gluten Snacks",
+        "flavors": ["Spicy", "Sweet & Spicy", "Five Spice"],
+        "ingredients": ["Wheat Gluten", "Chili Oil", "Sesame", "Sugar", "Spices"],
+        "weight_g": 500,
+        "cost_usd": 5.5,
+        "selling_price_usd": 9.99,
+        "allergens": ["Wheat", "Sesame", "Soy"],
+        "shelf_life_days": 270
+      },
+      {
+        "sku": "BS006",
+        "name": "Freeze-Dried Durian",
+        "flavors": ["Monthong Durian"],
+        "ingredients": ["Durian"],
+        "weight_g": 200,
+        "cost_usd": 12.8,
+        "selling_price_usd": 21.99,
+        "allergens": [],
+        "shelf_life_days": 360
+      },
+      {
+        "sku": "BS007",
+        "name": "Shrimp Crackers",
+        "flavors": ["Original", "Spicy", "Tomato"],
+        "ingredients": ["Shrimp", "Tapioca Starch", "Sugar", "Salt"],
+        "weight_g": 400,
+        "cost_usd": 4.5,
+        "selling_price_usd": 7.99,
+        "allergens": ["Shellfish"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "BS008",
+        "name": "Salted Nuts Mix",
+        "flavors": ["Salted", "Honey Butter", "Spicy"],
+        "ingredients": ["Peanuts", "Cashews", "Almonds", "Salt", "Butter", "Honey"],
+        "weight_g": 500,
+        "cost_usd": 7.9,
+        "selling_price_usd": 14.99,
+        "allergens": ["Peanuts", "Tree Nuts", "Milk"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "BS009",
+        "name": "Rice Crackers",
+        "flavors": ["Soy Sauce", "Wasabi", "Seaweed"],
+        "ingredients": ["Rice", "Soy Sauce", "Sugar", "Seaweed", "Wasabi"],
+        "weight_g": 350,
+        "cost_usd": 4.2,
+        "selling_price_usd": 7.99,
+        "allergens": ["Soy", "Wheat (in soy sauce)"],
+        "shelf_life_days": 270
+      },
+      {
+        "sku": "BS010",
+        "name": "Dried Longan",
+        "flavors": ["Sweet"],
+        "ingredients": ["Longan", "Sugar"],
+        "weight_g": 400,
+        "cost_usd": 6.2,
+        "selling_price_usd": 10.99,
+        "allergens": [],
+        "shelf_life_days": 300
+      }
+    ]
+  },
+  {
+    "company": "Orion (好丽友)",
+    "contact": {
+      "email": "orionglobal@orionworld.com",
+      "website": "https://www.orionworld.com/"
+    },
+    "products": [
+      {
+        "sku": "OR001",
+        "name": "Choco Pie",
+        "flavors": ["Original", "Banana", "Green Tea", "Strawberry"],
+        "ingredients": ["Wheat Flour", "Sugar", "Cocoa Powder", "Marshmallow", "Vegetable Oil", "Milk Powder"],
+        "weight_g": 360,
+        "cost_usd": 5.2,
+        "selling_price_usd": 8.99,
+        "allergens": ["Wheat", "Milk", "Soy", "Eggs"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "OR002",
+        "name": "Pepero Almond Stick",
+        "flavors": ["Almond", "Chocolate", "Strawberry", "Cookies & Cream"],
+        "ingredients": ["Wheat Flour", "Sugar", "Cocoa Mass", "Almonds", "Vegetable Oil", "Milk Powder"],
+        "weight_g": 240,
+        "cost_usd": 4.5,
+        "selling_price_usd": 6.99,
+        "allergens": ["Wheat", "Milk", "Soy", "Tree Nuts (Almonds)"],
+        "shelf_life_days": 270
+      },
+      {
+        "sku": "OR003",
+        "name": "Potato Chips",
+        "flavors": ["Original", "Sour Cream & Onion", "Honey Butter", "Spicy"],
+        "ingredients": ["Potatoes", "Vegetable Oil", "Salt", "Onion Powder", "Sugar"],
+        "weight_g": 500,
+        "cost_usd": 5.8,
+        "selling_price_usd": 8.99,
+        "allergens": [],
+        "shelf_life_days": 210
+      },
+      {
+        "sku": "OR004",
+        "name": "Market O Brownie",
+        "flavors": ["Dark Chocolate", "Milk Chocolate"],
+        "ingredients": ["Sugar", "Wheat Flour", "Cocoa Mass", "Butter", "Eggs", "Chocolate Chips"],
+        "weight_g": 320,
+        "cost_usd": 7.2,
+        "selling_price_usd": 12.99,
+        "allergens": ["Wheat", "Milk", "Eggs", "Soy"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "OR005",
+        "name": "Oh! Yes! Snack Mix",
+        "flavors": ["Cheddar Cheese", "Sweet Corn"],
+        "ingredients": ["Corn", "Rice", "Wheat Flour", "Cheddar Cheese Powder", "Vegetable Oil"],
+        "weight_g": 450,
+        "cost_usd": 6.2,
+        "selling_price_usd": 9.99,
+        "allergens": ["Wheat", "Milk", "Soy"],
+        "shelf_life_days": 240
+      },
+      {
+        "sku": "OR006",
+        "name": "Choco Boy",
+        "flavors": ["Chocolate", "Strawberry"],
+        "ingredients": ["Wheat Flour", "Cocoa Powder", "Sugar", "Vegetable Oil", "Milk Powder", "Strawberry Powder"],
+        "weight_g": 300,
+        "cost_usd": 3.9,
+        "selling_price_usd": 5.99,
+        "allergens": ["Wheat", "Milk", "Soy"],
+        "shelf_life_days": 300
+      },
+      {
+        "sku": "OR007",
+        "name": "Jelly Snacks",
+        "flavors": ["Grape", "Strawberry", "Orange", "Apple"],
+        "ingredients": ["Fruit Juice", "Sugar", "Gelatin", "Citric Acid"],
+        "weight_g": 350,
+        "cost_usd": 3.5,
+        "selling_price_usd": 5.99,
+        "allergens": [],
+        "shelf_life_days": 270
+      },
+      {
+        "sku": "OR008",
+        "name": "Crunky Chocolate Bar",
+        "flavors": ["Milk Chocolate", "Dark Chocolate", "White Chocolate"],
+        "ingredients": ["Sugar", "Cocoa Butter", "Whole Milk Powder", "Crispy Rice", "Cocoa Mass"],
+        "weight_g": 240,
+        "cost_usd": 4.8,
+        "selling_price_usd": 7.99,
+        "allergens": ["Milk", "Soy"],
+        "shelf_life_days": 300
+      },
+      {
+        "sku": "OR009",
+        "name": "Custard Cake",
+        "flavors": ["Original", "Chocolate"],
+        "ingredients": ["Eggs", "Sugar", "Wheat Flour", "Custard Cream", "Vegetable Oil"],
+        "weight_g": 360,
+        "cost_usd": 5.5,
+        "selling_price_usd": 8.99,
+        "allergens": ["Eggs", "Wheat", "Milk"],
+        "shelf_life_days": 180
+      },
+      {
+        "sku": "OR010",
+        "name": "Fudge Brownie",
+        "flavors": ["Double Chocolate"],
+        "ingredients": ["Sugar", "Wheat Flour", "Cocoa Powder", "Vegetable Oil", "Chocolate Chips", "Eggs"],
+        "weight_g": 400,
+        "cost_usd": 6.9,
+        "selling_price_usd": 11.99,
+        "allergens": ["Wheat", "Eggs", "Milk", "Soy"],
+        "shelf_life_days": 210
+      }
+    ]
+  }
+]
